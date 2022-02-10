@@ -1,4 +1,4 @@
-# Miguel-s-Katas
+# Miguel's-Katas
 
 Launchx Onboarding Katas
 
